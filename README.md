@@ -33,20 +33,3 @@
   
   
   ## 
-  
-
-<iframe id="sofa-standings-embed-83-40557" width="100%" height="717"
-  src="https://www.sofascore.com/tournament/83/40557/standings/tables/embed" frameborder="0" scrolling="no" style="height:717px!important">
-</iframe>
-<script>
-  (function (el) {
-    window.addEventListener("message", (event) => {
-      if (event.origin.startsWith("https://www.sofascore")) {
-        if (el.id === event.data.id) {
-          el.style.height = event.data.height + "px";
-        }
-      }
-    });
-  })(document.getElementById("sofa-standings-embed-83-40557"));
-  </script>
-<div style="font-size:12px;font-family:Arial,sans-serif">Standings provided by <a target="_blank" href="https://www.sofascore.com/">Sofascore</a></div>
