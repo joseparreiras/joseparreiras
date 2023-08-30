@@ -3,7 +3,6 @@
 ### 👤 Contact Me
 <div> 
   <a href="mailto:jose.neto@kellogg.northwestern.edu" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://twitter.com/joseparreiras" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://joseparreiras.github.io" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" target="_blank"></a>
 </div>
 
