@@ -4,6 +4,7 @@
 <div> 
   <a href="mailto:jose.neto@kellogg.northwestern.edu" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://joseparreiras.github.io" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jose-antunes-neto/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 ### 💻 Language and Tools
